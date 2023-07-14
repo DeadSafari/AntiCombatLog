@@ -13,9 +13,5 @@ BanAllCommands: false
 
 # The commands banned for players in combat (Not important if "BanAllCommands" = true)
 BannedCommands:
-  - spawn
-  - home
-  - tpa
-  - tp
-  - warp
-  - wild
+  - pl
+  - plugins
